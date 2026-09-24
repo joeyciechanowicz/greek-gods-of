@@ -68,6 +68,8 @@ ancient evidence with modern practice. A claim from these needs a Tier 1–3 sou
 
 ## Pipeline
 
+This pipeline is implemented as a Claude Code agent pipeline: see [PIPELINE.md](PIPELINE.md).
+
 1. **Unblock network access.** This cloud environment currently blocks most of the sites above
    (theoi.com, wikipedia.org, wikidata.org, topostext.org, perseus.tufts.edu, the MAP database, archive.org,
    HathiTrust). Add them to the environment's allowed domains before starting. GitHub is reachable, so

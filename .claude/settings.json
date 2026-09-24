@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch",
+      "Edit(data/gods/**)",
+      "Edit(gods/**)",
+      "Edit(pipeline/RUN-LOG.md)",
+      "Bash(python3 scripts/validate.py:*)",
+      "Bash(python3 scripts/build_pages.py:*)"
+    ]
+  }
+}

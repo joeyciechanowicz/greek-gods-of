@@ -1,0 +1,50 @@
+{
+  "god": "Athena",
+  "slug": "athena",
+  "wikidata": "Q37122",
+  "summary": "Goddess of wisdom, strategic warfare and crafts; guardian of Athens.",
+  "functions": [
+    {
+      "id": "athena-ophthalmitis",
+      "epithet": "Ophthalmitis",
+      "epithet_greek": "Ὀφθαλμῖτις",
+      "function": "Eyes; honoured at Sparta by Lycurgus after he lost an eye",
+      "category": "functional",
+      "place": "Sparta",
+      "ancient_sources": ["Paus. 3.18.2"],
+      "modern_sources": ["https://www.theoi.com/Cult/AthenaTitles.html"],
+      "evidence": "literary",
+      "confidence": "primary",
+      "verification_note": "Pausanias 3.18.2: Lycurgus founded the sanctuary after his eye was struck out."
+    },
+    {
+      "id": "athena-bridle",
+      "epithet": null,
+      "epithet_greek": null,
+      "function": "Invented the horse bridle and taught horse-taming",
+      "category": "functional",
+      "place": "Corinth",
+      "ancient_sources": ["Pind. O. 13.63-82"],
+      "modern_sources": [],
+      "evidence": "literary",
+      "confidence": "secondary",
+      "verification_note": null
+    }
+  ],
+  "toponymic": [
+    { "epithet": "Alea", "place": "Tegea", "sources": ["Paus. 8.45.4"] }
+  ],
+  "rejected": [
+    {
+      "claim": "Athena is the goddess of heirlooms",
+      "seen_at": ["user report"],
+      "reason": "No ancient or scholarly source found; nearest real matches are Zeus Ktesios (household property) and Athena Phratria (family clans)."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.theoi.com/Cult/AthenaTitles.html",
+    "https://en.wikipedia.org/wiki/Epithets_of_Athena"
+  ],
+  "researched_at": "2026-09-24",
+  "verified_at": "2026-09-24"
+}

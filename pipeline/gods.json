@@ -1,0 +1,847 @@
+{
+  "batches": [
+    "olympians",
+    "underworld",
+    "primordials",
+    "titans",
+    "sea",
+    "nature",
+    "healing",
+    "love-and-family",
+    "arts-and-fortune",
+    "personifications",
+    "household-daimones"
+  ],
+  "gods": [
+    {
+      "god": "Zeus",
+      "slug": "zeus",
+      "batch": "olympians"
+    },
+    {
+      "god": "Hera",
+      "slug": "hera",
+      "batch": "olympians"
+    },
+    {
+      "god": "Poseidon",
+      "slug": "poseidon",
+      "batch": "olympians"
+    },
+    {
+      "god": "Demeter",
+      "slug": "demeter",
+      "batch": "olympians"
+    },
+    {
+      "god": "Athena",
+      "slug": "athena",
+      "batch": "olympians"
+    },
+    {
+      "god": "Apollo",
+      "slug": "apollo",
+      "batch": "olympians"
+    },
+    {
+      "god": "Artemis",
+      "slug": "artemis",
+      "batch": "olympians"
+    },
+    {
+      "god": "Ares",
+      "slug": "ares",
+      "batch": "olympians"
+    },
+    {
+      "god": "Aphrodite",
+      "slug": "aphrodite",
+      "batch": "olympians"
+    },
+    {
+      "god": "Hephaestus",
+      "slug": "hephaestus",
+      "batch": "olympians"
+    },
+    {
+      "god": "Hermes",
+      "slug": "hermes",
+      "batch": "olympians"
+    },
+    {
+      "god": "Dionysus",
+      "slug": "dionysus",
+      "batch": "olympians"
+    },
+    {
+      "god": "Hestia",
+      "slug": "hestia",
+      "batch": "olympians"
+    },
+    {
+      "god": "Hades",
+      "slug": "hades",
+      "batch": "underworld"
+    },
+    {
+      "god": "Persephone",
+      "slug": "persephone",
+      "batch": "underworld"
+    },
+    {
+      "god": "Hecate",
+      "slug": "hecate",
+      "batch": "underworld"
+    },
+    {
+      "god": "Thanatos",
+      "slug": "thanatos",
+      "batch": "underworld"
+    },
+    {
+      "god": "Hypnos",
+      "slug": "hypnos",
+      "batch": "underworld"
+    },
+    {
+      "god": "Morpheus",
+      "slug": "morpheus",
+      "batch": "underworld"
+    },
+    {
+      "god": "Charon",
+      "slug": "charon",
+      "batch": "underworld"
+    },
+    {
+      "god": "Styx",
+      "slug": "styx",
+      "batch": "underworld"
+    },
+    {
+      "god": "Macaria",
+      "slug": "macaria",
+      "batch": "underworld"
+    },
+    {
+      "god": "Melinoe",
+      "slug": "melinoe",
+      "batch": "underworld"
+    },
+    {
+      "god": "Erinyes",
+      "slug": "erinyes",
+      "batch": "underworld"
+    },
+    {
+      "god": "Keres",
+      "slug": "keres",
+      "batch": "underworld"
+    },
+    {
+      "god": "Chaos",
+      "slug": "chaos",
+      "batch": "primordials"
+    },
+    {
+      "god": "Gaia",
+      "slug": "gaia",
+      "batch": "primordials"
+    },
+    {
+      "god": "Uranus",
+      "slug": "uranus",
+      "batch": "primordials"
+    },
+    {
+      "god": "Tartarus",
+      "slug": "tartarus",
+      "batch": "primordials"
+    },
+    {
+      "god": "Eros",
+      "slug": "eros",
+      "batch": "primordials"
+    },
+    {
+      "god": "Erebus",
+      "slug": "erebus",
+      "batch": "primordials"
+    },
+    {
+      "god": "Nyx",
+      "slug": "nyx",
+      "batch": "primordials"
+    },
+    {
+      "god": "Aether",
+      "slug": "aether",
+      "batch": "primordials"
+    },
+    {
+      "god": "Hemera",
+      "slug": "hemera",
+      "batch": "primordials"
+    },
+    {
+      "god": "Pontus",
+      "slug": "pontus",
+      "batch": "primordials"
+    },
+    {
+      "god": "Ourea",
+      "slug": "ourea",
+      "batch": "primordials"
+    },
+    {
+      "god": "Chronos",
+      "slug": "chronos",
+      "batch": "primordials"
+    },
+    {
+      "god": "Ananke",
+      "slug": "ananke",
+      "batch": "primordials"
+    },
+    {
+      "god": "Thalassa",
+      "slug": "thalassa",
+      "batch": "primordials"
+    },
+    {
+      "god": "Phanes",
+      "slug": "phanes",
+      "batch": "primordials"
+    },
+    {
+      "god": "Cronus",
+      "slug": "cronus",
+      "batch": "titans"
+    },
+    {
+      "god": "Rhea",
+      "slug": "rhea",
+      "batch": "titans"
+    },
+    {
+      "god": "Oceanus",
+      "slug": "oceanus",
+      "batch": "titans"
+    },
+    {
+      "god": "Tethys",
+      "slug": "tethys",
+      "batch": "titans"
+    },
+    {
+      "god": "Hyperion",
+      "slug": "hyperion",
+      "batch": "titans"
+    },
+    {
+      "god": "Theia",
+      "slug": "theia",
+      "batch": "titans"
+    },
+    {
+      "god": "Coeus",
+      "slug": "coeus",
+      "batch": "titans"
+    },
+    {
+      "god": "Phoebe",
+      "slug": "phoebe",
+      "batch": "titans"
+    },
+    {
+      "god": "Mnemosyne",
+      "slug": "mnemosyne",
+      "batch": "titans"
+    },
+    {
+      "god": "Themis",
+      "slug": "themis",
+      "batch": "titans"
+    },
+    {
+      "god": "Crius",
+      "slug": "crius",
+      "batch": "titans"
+    },
+    {
+      "god": "Iapetus",
+      "slug": "iapetus",
+      "batch": "titans"
+    },
+    {
+      "god": "Prometheus",
+      "slug": "prometheus",
+      "batch": "titans"
+    },
+    {
+      "god": "Epimetheus",
+      "slug": "epimetheus",
+      "batch": "titans"
+    },
+    {
+      "god": "Atlas",
+      "slug": "atlas",
+      "batch": "titans"
+    },
+    {
+      "god": "Menoetius",
+      "slug": "menoetius",
+      "batch": "titans"
+    },
+    {
+      "god": "Leto",
+      "slug": "leto",
+      "batch": "titans"
+    },
+    {
+      "god": "Asteria",
+      "slug": "asteria",
+      "batch": "titans"
+    },
+    {
+      "god": "Helios",
+      "slug": "helios",
+      "batch": "titans"
+    },
+    {
+      "god": "Selene",
+      "slug": "selene",
+      "batch": "titans"
+    },
+    {
+      "god": "Eos",
+      "slug": "eos",
+      "batch": "titans"
+    },
+    {
+      "god": "Metis",
+      "slug": "metis",
+      "batch": "titans"
+    },
+    {
+      "god": "Dione",
+      "slug": "dione",
+      "batch": "titans"
+    },
+    {
+      "god": "Astraeus",
+      "slug": "astraeus",
+      "batch": "titans"
+    },
+    {
+      "god": "Pallas",
+      "slug": "pallas",
+      "batch": "titans"
+    },
+    {
+      "god": "Perses",
+      "slug": "perses",
+      "batch": "titans"
+    },
+    {
+      "god": "Amphitrite",
+      "slug": "amphitrite",
+      "batch": "sea"
+    },
+    {
+      "god": "Triton",
+      "slug": "triton",
+      "batch": "sea"
+    },
+    {
+      "god": "Nereus",
+      "slug": "nereus",
+      "batch": "sea"
+    },
+    {
+      "god": "Proteus",
+      "slug": "proteus",
+      "batch": "sea"
+    },
+    {
+      "god": "Thetis",
+      "slug": "thetis",
+      "batch": "sea"
+    },
+    {
+      "god": "Phorcys",
+      "slug": "phorcys",
+      "batch": "sea"
+    },
+    {
+      "god": "Ceto",
+      "slug": "ceto",
+      "batch": "sea"
+    },
+    {
+      "god": "Glaucus",
+      "slug": "glaucus",
+      "batch": "sea"
+    },
+    {
+      "god": "Palaemon",
+      "slug": "palaemon",
+      "batch": "sea"
+    },
+    {
+      "god": "Leucothea",
+      "slug": "leucothea",
+      "batch": "sea"
+    },
+    {
+      "god": "Iris",
+      "slug": "iris",
+      "batch": "nature"
+    },
+    {
+      "god": "Boreas",
+      "slug": "boreas",
+      "batch": "nature"
+    },
+    {
+      "god": "Notus",
+      "slug": "notus",
+      "batch": "nature"
+    },
+    {
+      "god": "Zephyrus",
+      "slug": "zephyrus",
+      "batch": "nature"
+    },
+    {
+      "god": "Eurus",
+      "slug": "eurus",
+      "batch": "nature"
+    },
+    {
+      "god": "Aeolus",
+      "slug": "aeolus",
+      "batch": "nature"
+    },
+    {
+      "god": "Pan",
+      "slug": "pan",
+      "batch": "nature"
+    },
+    {
+      "god": "Aristaeus",
+      "slug": "aristaeus",
+      "batch": "nature"
+    },
+    {
+      "god": "Priapus",
+      "slug": "priapus",
+      "batch": "nature"
+    },
+    {
+      "god": "Chloris",
+      "slug": "chloris",
+      "batch": "nature"
+    },
+    {
+      "god": "Horae",
+      "slug": "horae",
+      "batch": "nature"
+    },
+    {
+      "god": "Asclepius",
+      "slug": "asclepius",
+      "batch": "healing"
+    },
+    {
+      "god": "Hygieia",
+      "slug": "hygieia",
+      "batch": "healing"
+    },
+    {
+      "god": "Panacea",
+      "slug": "panacea",
+      "batch": "healing"
+    },
+    {
+      "god": "Iaso",
+      "slug": "iaso",
+      "batch": "healing"
+    },
+    {
+      "god": "Aceso",
+      "slug": "aceso",
+      "batch": "healing"
+    },
+    {
+      "god": "Epione",
+      "slug": "epione",
+      "batch": "healing"
+    },
+    {
+      "god": "Telesphoros",
+      "slug": "telesphoros",
+      "batch": "healing"
+    },
+    {
+      "god": "Himeros",
+      "slug": "himeros",
+      "batch": "love-and-family"
+    },
+    {
+      "god": "Pothos",
+      "slug": "pothos",
+      "batch": "love-and-family"
+    },
+    {
+      "god": "Anteros",
+      "slug": "anteros",
+      "batch": "love-and-family"
+    },
+    {
+      "god": "Hymenaios",
+      "slug": "hymenaios",
+      "batch": "love-and-family"
+    },
+    {
+      "god": "Eileithyia",
+      "slug": "eileithyia",
+      "batch": "love-and-family"
+    },
+    {
+      "god": "Hebe",
+      "slug": "hebe",
+      "batch": "love-and-family"
+    },
+    {
+      "god": "Harmonia",
+      "slug": "harmonia",
+      "batch": "love-and-family"
+    },
+    {
+      "god": "Muses",
+      "slug": "muses",
+      "batch": "arts-and-fortune"
+    },
+    {
+      "god": "Charites",
+      "slug": "charites",
+      "batch": "arts-and-fortune"
+    },
+    {
+      "god": "Moirai",
+      "slug": "moirai",
+      "batch": "arts-and-fortune"
+    },
+    {
+      "god": "Tyche",
+      "slug": "tyche",
+      "batch": "arts-and-fortune"
+    },
+    {
+      "god": "Nike",
+      "slug": "nike",
+      "batch": "arts-and-fortune"
+    },
+    {
+      "god": "Nemesis",
+      "slug": "nemesis",
+      "batch": "arts-and-fortune"
+    },
+    {
+      "god": "Plutus",
+      "slug": "plutus",
+      "batch": "arts-and-fortune"
+    },
+    {
+      "god": "Eirene",
+      "slug": "eirene",
+      "batch": "arts-and-fortune"
+    },
+    {
+      "god": "Dike",
+      "slug": "dike",
+      "batch": "arts-and-fortune"
+    },
+    {
+      "god": "Eunomia",
+      "slug": "eunomia",
+      "batch": "arts-and-fortune"
+    },
+    {
+      "god": "Enyo",
+      "slug": "enyo",
+      "batch": "arts-and-fortune"
+    },
+    {
+      "god": "Phobos",
+      "slug": "phobos",
+      "batch": "arts-and-fortune"
+    },
+    {
+      "god": "Deimos",
+      "slug": "deimos",
+      "batch": "arts-and-fortune"
+    },
+    {
+      "god": "Eris",
+      "slug": "eris",
+      "batch": "arts-and-fortune"
+    },
+    {
+      "god": "Momus",
+      "slug": "momus",
+      "batch": "arts-and-fortune"
+    },
+    {
+      "god": "Comus",
+      "slug": "comus",
+      "batch": "arts-and-fortune"
+    },
+    {
+      "god": "Kairos",
+      "slug": "kairos",
+      "batch": "arts-and-fortune"
+    },
+    {
+      "god": "Aidos",
+      "slug": "aidos",
+      "batch": "arts-and-fortune"
+    },
+    {
+      "god": "Peitho",
+      "slug": "peitho",
+      "batch": "arts-and-fortune"
+    },
+    {
+      "god": "Koalemos",
+      "slug": "koalemos",
+      "batch": "personifications"
+    },
+    {
+      "god": "Adephagia",
+      "slug": "adephagia",
+      "batch": "personifications"
+    },
+    {
+      "god": "Aergia",
+      "slug": "aergia",
+      "batch": "personifications"
+    },
+    {
+      "god": "Geras",
+      "slug": "geras",
+      "batch": "personifications"
+    },
+    {
+      "god": "Oizys",
+      "slug": "oizys",
+      "batch": "personifications"
+    },
+    {
+      "god": "Amechania",
+      "slug": "amechania",
+      "batch": "personifications"
+    },
+    {
+      "god": "Pheme",
+      "slug": "pheme",
+      "batch": "personifications"
+    },
+    {
+      "god": "Apate",
+      "slug": "apate",
+      "batch": "personifications"
+    },
+    {
+      "god": "Dolos",
+      "slug": "dolos",
+      "batch": "personifications"
+    },
+    {
+      "god": "Pseudea",
+      "slug": "pseudea",
+      "batch": "personifications"
+    },
+    {
+      "god": "Amphillogiai",
+      "slug": "amphillogiai",
+      "batch": "personifications"
+    },
+    {
+      "god": "Neikea",
+      "slug": "neikea",
+      "batch": "personifications"
+    },
+    {
+      "god": "Hysminai",
+      "slug": "hysminai",
+      "batch": "personifications"
+    },
+    {
+      "god": "Makhai",
+      "slug": "makhai",
+      "batch": "personifications"
+    },
+    {
+      "god": "Phonoi",
+      "slug": "phonoi",
+      "batch": "personifications"
+    },
+    {
+      "god": "Alala",
+      "slug": "alala",
+      "batch": "personifications"
+    },
+    {
+      "god": "Homados",
+      "slug": "homados",
+      "batch": "personifications"
+    },
+    {
+      "god": "Palioxis",
+      "slug": "palioxis",
+      "batch": "personifications"
+    },
+    {
+      "god": "Ekecheiria",
+      "slug": "ekecheiria",
+      "batch": "personifications"
+    },
+    {
+      "god": "Horkos",
+      "slug": "horkos",
+      "batch": "personifications"
+    },
+    {
+      "god": "Poine",
+      "slug": "poine",
+      "batch": "personifications"
+    },
+    {
+      "god": "Ate",
+      "slug": "ate",
+      "batch": "personifications"
+    },
+    {
+      "god": "Lethe",
+      "slug": "lethe",
+      "batch": "personifications"
+    },
+    {
+      "god": "Elpis",
+      "slug": "elpis",
+      "batch": "personifications"
+    },
+    {
+      "god": "Eleos",
+      "slug": "eleos",
+      "batch": "personifications"
+    },
+    {
+      "god": "Horme",
+      "slug": "horme",
+      "batch": "personifications"
+    },
+    {
+      "god": "Ponos",
+      "slug": "ponos",
+      "batch": "personifications"
+    },
+    {
+      "god": "Limos",
+      "slug": "limos",
+      "batch": "personifications"
+    },
+    {
+      "god": "Algos",
+      "slug": "algos",
+      "batch": "personifications"
+    },
+    {
+      "god": "Penia",
+      "slug": "penia",
+      "batch": "personifications"
+    },
+    {
+      "god": "Hedone",
+      "slug": "hedone",
+      "batch": "personifications"
+    },
+    {
+      "god": "Philotes",
+      "slug": "philotes",
+      "batch": "personifications"
+    },
+    {
+      "god": "Sophrosyne",
+      "slug": "sophrosyne",
+      "batch": "personifications"
+    },
+    {
+      "god": "Eukleia",
+      "slug": "eukleia",
+      "batch": "personifications"
+    },
+    {
+      "god": "Eusebeia",
+      "slug": "eusebeia",
+      "batch": "personifications"
+    },
+    {
+      "god": "Pistis",
+      "slug": "pistis",
+      "batch": "personifications"
+    },
+    {
+      "god": "Kratos",
+      "slug": "kratos",
+      "batch": "personifications"
+    },
+    {
+      "god": "Bia",
+      "slug": "bia",
+      "batch": "personifications"
+    },
+    {
+      "god": "Zelos",
+      "slug": "zelos",
+      "batch": "personifications"
+    },
+    {
+      "god": "Eunostos",
+      "slug": "eunostos",
+      "batch": "household-daimones"
+    },
+    {
+      "god": "Matton",
+      "slug": "matton",
+      "batch": "household-daimones"
+    },
+    {
+      "god": "Keraon",
+      "slug": "keraon",
+      "batch": "household-daimones"
+    },
+    {
+      "god": "Deipneus",
+      "slug": "deipneus",
+      "batch": "household-daimones"
+    },
+    {
+      "god": "Akratopotes",
+      "slug": "akratopotes",
+      "batch": "household-daimones"
+    },
+    {
+      "god": "Kyamites",
+      "slug": "kyamites",
+      "batch": "household-daimones"
+    },
+    {
+      "god": "Myiagros",
+      "slug": "myiagros",
+      "batch": "household-daimones"
+    }
+  ]
+}
