@@ -7,6 +7,9 @@ Greek mythology has hundreds of named deities, spirits and personifications, so 
 exhaustive. This one covers the Olympians, the primordial gods, the Titans and the most notable
 other gods, grouped by family. Roman equivalents are given where they exist.
 
+For the small, specific and odd things the gods were for (flies, mice, flour mills, kneading dough,
+stupidity...), see **[The Little Things the Gods Were For](LITTLE-THINGS.md)**.
+
 ## The Twelve Olympians
 
 | God | God/Goddess of | Roman name |
